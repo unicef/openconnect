@@ -13,7 +13,6 @@ An interactive app for visualising and assessing School / Health Centre connecti
 
 
 ## Notes / TODO
-* Using the 'fixed-line' dataset only from Ookla. Mobile may be relevant, but hard to pinpoint if a mobile speed test is actually from the relevant facility
 * Facilities labelled 'No connectivity' are in tiles that don't have at least 4 Ookla speedtests in the last 12 months.
 * Should also provide summary stats by Administrative region?
 
